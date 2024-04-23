@@ -8,7 +8,7 @@ export default function Home() {
     <>
       <LampDemo />
       <TeamCard />
-      <BentoGridThirdDemo />
+      {/* <BentoGridThirdDemo /> */}
     </>
   );
 }
