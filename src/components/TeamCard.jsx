@@ -3,8 +3,6 @@ import React from "react";
 
 import { AnimatePresence, motion } from "framer-motion";
 import { CanvasRevealEffect } from "@/components/ui/canvas-reveal-effect";
-import logo from "../../public/Anubhav.jpeg";
-import openarmor from "../../public/openarmor.svg";
 
 import Image from "next/image";
 
